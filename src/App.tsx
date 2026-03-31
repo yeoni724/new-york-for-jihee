@@ -391,6 +391,8 @@ export default function App() {
                 </p>
                 <p>
                   우리 뉴욕에서 뭐할지 상상하면서 행복해지자!
+                  <br />
+                  여기에 우리의 여행계획 하나하나 채우고 2027년 9월에 현실로 만들자.
                 </p>
                 <p className="font-medium text-[#3d2f2f]">
                   사랑해, 지희.
