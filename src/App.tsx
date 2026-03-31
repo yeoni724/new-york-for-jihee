@@ -165,7 +165,7 @@ export default function App() {
       subtitle: 'Fifth Avenue',
       description:
         '리본 밴드 웨딩링 구경하러 바로 고!!',
-      image: 'https://images.unsplash.com/photo-1573663520878-8c38b10264fc?w=800&q=80',
+      image: 'https://a.1stdibscdn.com/ribbon-diamond-wedding-band-for-sale/j_17211/j_215396621705012114235/j_21539662_1705012114952_bg_processed.jpg?width=768',
     },
     {
       icon: Trees,
