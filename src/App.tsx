@@ -205,7 +205,7 @@ export default function App() {
       subtitle: 'Times Square',
       description:
         '끌리는 뮤지컬 있으면 뮤지컬도 같이 보자',
-      image: 'https://images.unsplash.com/photo-1513151233558-d860c5398176?w=800&q=80',
+      image: 'https://images.unsplash.com/photo-1549490349-8643362247b5?w=800&q=80',
     },
     {
       icon: Coffee,
@@ -213,7 +213,7 @@ export default function App() {
       subtitle: 'Brooklyn Vibes',
       description:
         '유명한 카페들도 이곳저곳 찾아보자!',
-      image: 'https://images.unsplash.com/photo-1500916434205-0c77489c6cf7?w=800&q=80',
+      image: 'https://images.unsplash.com/photo-1555109307-f7d9da25c244?w=800&q=80',
     },
     {
       icon: MapPin,
@@ -221,7 +221,7 @@ export default function App() {
       subtitle: 'Shopping & Food',
       description:
         '지희가 좋아할만한 이쁜 것들 여러가지 골라보자!',
-      image: 'https://images.unsplash.com/photo-1555992336-fb0d29498b13?w=800&q=80',
+      image: 'https://images.unsplash.com/photo-1531973819741-e27a5ae2cc7b?w=800&q=80',
     },
   ]
 
