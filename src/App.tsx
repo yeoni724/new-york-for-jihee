@@ -221,7 +221,7 @@ export default function App() {
       subtitle: 'Shopping & Food',
       description:
         '지희가 좋아할만한 이쁜 것들 여러가지 골라보자!',
-      image: 'https://images.unsplash.com/photo-1567521464027-f127ff144326?w=800&q=80',
+      image: 'https://images.unsplash.com/photo-1664353657481-76c2ba2696c8?w=800&q=80',
     },
   ]
 
